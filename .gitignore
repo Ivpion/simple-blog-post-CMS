@@ -1,0 +1,11 @@
+*.class
+*.log
+.idea
+build/
+.gradle/
+/out
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
