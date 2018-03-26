@@ -1,6 +1,7 @@
 *.class
 *.log
-.idea
+.idea/
+
 build/
 .gradle/
 /out
@@ -9,3 +10,5 @@ build/
 *.zip
 *.tar.gz
 *.rar
+.issues_help/
+.idea
